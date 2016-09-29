@@ -54,38 +54,26 @@ public class MaterialButton extends FrameLayout {
 
     public MaterialButton(Context context) {
         super(context);
-//        if(!isInEditMode()) {
-//            this.context = context;
             init();
-//        }
     }
 
     public MaterialButton(Context context, AttributeSet attrs) {
         super(context, attrs);
-//        if(!isInEditMode()) {
-//            this.context = context;
             a = context.obtainStyledAttributes(attrs, R.styleable.MaterialButton, 0, 0);
             init();
-//        }
     }
 
     public MaterialButton(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
-//        if(!isInEditMode()) {
-//            this.context = context;
             a = context.obtainStyledAttributes(attrs, R.styleable.MaterialButton, defStyleAttr, 0);
             init();
-//        }
     }
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     public MaterialButton(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
         super(context, attrs, defStyleAttr, defStyleRes);
-//        if(!isInEditMode()) {
-//            this.context = context;
             a = context.obtainStyledAttributes(attrs, R.styleable.MaterialButton, defStyleAttr, defStyleRes);
             init();
-//        }
     }
 
     @SuppressWarnings("deprecation")
@@ -97,21 +85,6 @@ public class MaterialButton extends FrameLayout {
 
         mRoundedImageView = (RoundedImageView) findViewById(R.id.roundedImageView);
         mTextView = (TextView) findViewById(R.id.textView);
-
-
-//        mRoundedImageView = new RoundedImageView(getContext());
-//        mRoundedImageView.setLayoutParams(new FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
-//        mRoundedImageView.setMinimumHeight((int)(16 * density));
-//        mRoundedImageView.setScaleType(ImageView.ScaleType.FIT_XY);
-//
-//        mTextView = new TextView(getContext());
-//        mTextView.setLayoutParams(new FrameLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT));
-//        mTextView.setText("Button");
-//        mTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 16);
-//        mTextView.setGravity(Gravity.CENTER);
-//
-//        addView(mRoundedImageView);
-//        addView(mTextView);
 
         setClickable(true);
 
@@ -178,10 +151,6 @@ public class MaterialButton extends FrameLayout {
         setCustomBackground();
 
     }
-
-
-
-
 
     public RoundedImageView getButtonImageView() {
         return mRoundedImageView;
