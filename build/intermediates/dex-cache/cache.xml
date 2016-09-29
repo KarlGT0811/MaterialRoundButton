@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_4fa3264c8e967771a75f2f0ea7336e288ced55a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_68b0ff4c15a121e175d3a2fcfd377c7ef16a0c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_38884d118000e9542e84390b489282aab139f85c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9c2c75ff72878800b7fe59b6ae1529f1f5636ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_dab119d04aed537b55c7f47477e7a00bfd65b762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5c8aca77d790b15ade7cece0690f5cc5e2fe3dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2d6da701e4c9bfa382e958f31b6c6681c76a634d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.makeramen-roundedimageview-2.2.1_8add3590329686dfebe60f53aecaead292387a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f4059095f619078156876f521489709ede6814b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_4fba8cac9c9208fa2f416bd2fc7138ff9f28831d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_7689152d2977311b7ab4e27bc9fe1283abc759fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_446d4ec24c8f7c0d9150569cf495ae9899cb2a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5497a1a8daa3f745089368ece8a545871f52c2b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_4e8b024dc48c58c12db2781c962c01e71ce4e3ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/MaterialRoundButton/materialroundbutton/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="892b168d94066566599ce079b71d8e002833af5f">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/MaterialRoundButton-materialroundbutton-unspecified_c5d06ccb2f0f2a69c61bb90e858ef2b258e617e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c37a5d007389395a68a562fb7832f026f18355aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_1fa4682c97ff40e4c5aac70f692f21ddf28bd498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_fb3abca7dd9d0620f261b1de682eca5eef74c8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/macmini6/Desktop/MaterialRoundButton/sample/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_c15061ade0c1405f4c004182a134398104009ff3.jar" />
+    </item>
+
+</items>

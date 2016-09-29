@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialButton">
+        <attr name="mb_buttonColor" format="color"/>
+        <attr name="mb_borderColor" format="color"/>
+        <attr name="mb_borderWidth" format="dimension"/>
+        <attr name="mb_cornerRadius" format="dimension"/>
+
+        <attr name="mb_text" format="string"/>
+        <attr name="mb_textColor" format="color"/>
+        <attr name="mb_textSize" format="dimension"/>
+
+        <attr name="mb_rippleColor" format="color"/>
+        <attr name="mb_buttonType" format="enum">
+            <enum name="flat" value="0"/>
+            <enum name="raised" value="1"/>
+            <enum name="fab" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>

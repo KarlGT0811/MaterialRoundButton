@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:id="@+id/content_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -16,5 +17,67 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
-</RelativeLayout>
+        android:text="Hello Material Round Button!" />
+
+    <com.karlgao.materialroundbutton.MaterialButton
+        android:layout_width="90dp"
+        android:layout_height="36dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="30dp"
+        app:mb_buttonColor="#00000000"
+        app:mb_buttonType="flat"
+        app:mb_text="flat button"
+        app:mb_textSize="12sp"/>
+
+    <com.karlgao.materialroundbutton.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="30dp"
+        app:mb_borderColor="#800000"
+        app:mb_borderWidth="2dp"
+        app:mb_buttonColor="#00000000"
+        app:mb_buttonType="raised"
+        app:mb_cornerRadius="12dp"
+        app:mb_rippleColor="#800000"
+        app:mb_text="button1"
+        app:mb_textColor="#800000"
+        app:mb_textSize="16sp" />
+
+    <com.karlgao.materialroundbutton.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="30dp"
+        app:mb_buttonColor="#339CFF"
+        app:mb_buttonType="raised"
+        app:mb_cornerRadius="28dp"
+        app:mb_rippleColor="#40ffffff"
+        app:mb_text="button2"
+        app:mb_textColor="#ffffff"
+        app:mb_textSize="16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="Hello FAB with text!" />
+
+    <com.karlgao.materialroundbutton.MaterialButton
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="30dp"
+        app:mb_buttonColor="#339CFF"
+        app:mb_buttonType="fab"
+        app:mb_cornerRadius="32dp"
+        app:mb_rippleColor="#40ffffff"
+        app:mb_text="NEW"
+        app:mb_textColor="#ffffff"
+        app:mb_textSize="16sp" />
+
+</LinearLayout>
