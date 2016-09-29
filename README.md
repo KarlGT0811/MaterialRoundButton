@@ -39,7 +39,7 @@ Add following to your layout file:
 License
 -------
 
-    Copyright 2015 Vincent Mi
+    Copyright 2016 Karl Gao
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
